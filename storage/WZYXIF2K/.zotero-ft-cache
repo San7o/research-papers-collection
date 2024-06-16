@@ -1,0 +1,117 @@
+
+
+research.google uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more .
+OK, got it
+Jump to Content
+Research
+
+    Who we are
+    Defining the technology of today and tomorrow.
+        Philosophy
+
+        We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.
+        Learn more about our Philosophy Learn more
+        People
+
+        Our researchers drive advancements in computer science through both fundamental and applied research.
+        Learn more about our People Learn more
+        Teams
+
+        Our research teams have the opportunity to impact technology used by billions of people every day.
+        Learn more about our Teams Learn more
+    Research areas
+        AI/ML Foundations  & Capabilities
+            Machine Intelligence
+            Machine Perception
+            Machine Translation
+            Natural Language Processing
+            Speech Processing
+        Algorithms & Optimization
+            Algorithms & Theory
+            Data Management
+            Data Mining & Modeling
+            Information Retrieval & the Web
+        Computing Paradigms
+            Distributed Systems & Parallel Computing
+            Hardware & Architecture
+            Mobile Systems
+            Networking
+            Quantum Computing
+            Robotics
+            Security, Privacy, & Abuse Prevention
+            Software Engineering
+            Software Systems
+        Responsible Human-Centric Technology
+            Human-Computer Interaction & Visualization
+            Responsible AI
+        Science & Societal Impact
+            Climate & Sustainability
+            Economics & Electronic Commerce
+            Education Innovation
+            General Science
+            Health & Bioscience
+    Explore research areas
+    Our work
+        Projects
+
+        We regularly open-source projects with the broader research community and apply our developments to Google products.
+        Learn more about our Projects Learn more
+        Publications
+
+        Publishing our work allows us to share ideas and work collaboratively to advance the field of computer science.
+        Learn more about our Publications Learn more
+        Resources
+
+        We make products, tools, and datasets available to everyone with the goal of building a more collaborative ecosystem.
+        Learn more about our Resources Learn more
+    Programs & events
+    Shaping the future, together.
+    Collaborate with us
+        Student programs
+
+        Supporting the next generation of researchers through a wide range of programming.
+        Learn more about our Student programs Learn more
+        Faculty programs
+
+        Participating in the academic research community through meaningful engagement with university faculty.
+        Learn more about our Faculty programs Learn more
+        Conferences & events
+
+        Connecting with the broader research community through events is essential for creating progress in every aspect of our work.
+        Learn more about our Conferences & events Learn more
+    Careers
+    Blog
+
+Search
+
+    Home
+    Publications
+
+MapReduce: Simplified Data Processing on Large Clusters
+Jeffrey Dean
+Sanjay Ghemawat
+OSDI'04: Sixth Symposium on Operating System Design and Implementation, San Francisco, CA(2004), pp. 137-150
+Download Google Scholar
+Copy Bibtex
+Abstract
+MapReduce is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key. Many real world tasks are expressible in this model, as shown in the paper. Programs written in this functional style are automatically parallelized and executed on a large cluster of commodity machines. The run-time system takes care of the details of partitioning the input data, scheduling the program's execution across a set of machines, handling machine failures, and managing the required inter-machine communication. This allows programmers without any experience with parallel and distributed systems to easily utilize the resources of a large distributed system. Our implementation of MapReduce runs on a large cluster of commodity machines and is highly scalable: a typical MapReduce computation processes many terabytes of data on thousands of machines. Programmers find the system easy to use: hundreds of MapReduce programs have been implemented and upwards of one thousand MapReduce jobs are executed on Google's clusters every day. HTML Slides
+Research Areas
+
+    Distributed Systems and Parallel Computing
+
+Meet the teams driving innovation
+
+Our teams advance the state of the art through research, systems engineering, and collaboration across Google.
+See our teams
+Teams
+
+Follow us
+
+    About Google
+    Google Products
+    Privacy
+    Terms
+
+    Help
+    Submit feedback
+
