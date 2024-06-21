@@ -1,0 +1,118 @@
+
+
+research.google uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more .
+OK, got it
+Jump to Content
+Research
+
+    Who we are
+    Defining the technology of today and tomorrow.
+        Philosophy
+
+        We strive to create an environment conducive to many different types of research across many different time scales and levels of risk.
+        Learn more about our Philosophy Learn more
+        People
+
+        Our researchers drive advancements in computer science through both fundamental and applied research.
+        Learn more about our People Learn more
+        Teams
+
+        Our research teams have the opportunity to impact technology used by billions of people every day.
+        Learn more about our Teams Learn more
+    Research areas
+        AI/ML Foundations  & Capabilities
+            Machine Intelligence
+            Machine Perception
+            Machine Translation
+            Natural Language Processing
+            Speech Processing
+        Algorithms & Optimization
+            Algorithms & Theory
+            Data Management
+            Data Mining & Modeling
+            Information Retrieval & the Web
+        Computing Paradigms
+            Distributed Systems & Parallel Computing
+            Hardware & Architecture
+            Mobile Systems
+            Networking
+            Quantum Computing
+            Robotics
+            Security, Privacy, & Abuse Prevention
+            Software Engineering
+            Software Systems
+        Responsible Human-Centric Technology
+            Human-Computer Interaction & Visualization
+            Responsible AI
+        Science & Societal Impact
+            Climate & Sustainability
+            Economics & Electronic Commerce
+            Education Innovation
+            General Science
+            Health & Bioscience
+    Explore research areas
+    Our work
+        Projects
+
+        We regularly open-source projects with the broader research community and apply our developments to Google products.
+        Learn more about our Projects Learn more
+        Publications
+
+        Publishing our work allows us to share ideas and work collaboratively to advance the field of computer science.
+        Learn more about our Publications Learn more
+        Resources
+
+        We make products, tools, and datasets available to everyone with the goal of building a more collaborative ecosystem.
+        Learn more about our Resources Learn more
+    Programs & events
+    Shaping the future, together.
+    Collaborate with us
+        Student programs
+
+        Supporting the next generation of researchers through a wide range of programming.
+        Learn more about our Student programs Learn more
+        Faculty programs
+
+        Participating in the academic research community through meaningful engagement with university faculty.
+        Learn more about our Faculty programs Learn more
+        Conferences & events
+
+        Connecting with the broader research community through events is essential for creating progress in every aspect of our work.
+        Learn more about our Conferences & events Learn more
+    Careers
+    Blog
+
+Search
+
+    Home
+    Publications
+
+The Google File System
+Sanjay Ghemawat
+Howard Gobioff
+Shun-Tak Leung
+Proceedings of the 19th ACM Symposium on Operating Systems Principles, ACM, Bolton Landing, NY(2003), pp. 20-43
+Download Google Scholar
+Copy Bibtex
+Abstract
+We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients. While sharing many of the same goals as previous distributed file systems, our design has been driven by observations of our application workloads and technological environment, both current and anticipated, that reflect a marked departure from some earlier file system assumptions. This has led us to reexamine traditional choices and explore radically different design points. The file system has successfully met our storage needs. It is widely deployed within Google as the storage platform for the generation and processing of data used by our service as well as research and development efforts that require large data sets. The largest cluster to date provides hundreds of terabytes of storage across thousands of disks on over a thousand machines, and it is concurrently accessed by hundreds of clients. In this paper, we present file system interface extensions designed to support distributed applications, discuss many aspects of our design, and report measurements from both micro-benchmarks and real world use.
+Research Areas
+
+    Software Systems
+
+Meet the teams driving innovation
+
+Our teams advance the state of the art through research, systems engineering, and collaboration across Google.
+See our teams
+Teams
+
+Follow us
+
+    About Google
+    Google Products
+    Privacy
+    Terms
+
+    Help
+    Submit feedback
+
